@@ -1,5 +1,5 @@
 # Hola, mi nombre es Sebastian Silvera 👋
-### Soy Tester QA (manual y automation) & Python Developer.
+### Tester QA (manual y automation) & Python Developer.
 <!--
 **sosilvera/sosilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
