@@ -6,7 +6,7 @@
 
 Soy Tester desde hace 5 años, tengo a cargo el equipo de testing de la App de una importante empresa de telecomunicaciones en Argentina, entre otros proyectos.
 
-En el medio me adentre en el aprendizaje de distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que trabajo.
+En el medio, me adentre en el aprendizaje de distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que me desempeño.
 
 También me interesé en el desarrollo en Python y el análisis de datos, con el objetivo de mejorar los procesos y problemas que nos encontramos a diario.
 Además, soy estudiante de Ciencias de la Computación, y estoy en proceso de crear un curso completo y orientado a la industria sobre Testing.
