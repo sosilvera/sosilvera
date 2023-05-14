@@ -1,10 +1,10 @@
-# Hola, mi nombre es Sebastian Silvera 👋
+# Hola, soy Seba Silvera 👋
 ### Tester QA (manual y automation) & Python Developer.
 <!--
 **sosilvera/sosilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Soy Tester desde hace 5 años, tengo a cargo el equipo de testing de la App de una importante empresa de telecomunicaciones en Argentina, entre otros proyectos.
+Soy un apasionado rompedor de software desde hace 5 años.
 
 En el medio, me adentre en el aprendizaje de distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que me desempeño.
 
