@@ -4,7 +4,7 @@
 **sosilvera/sosilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Soy un apasionado rompedor de software desde hace 5 años.
+Vengo rompiendo software desde hace 7 años.
 
 En el medio, me adentre en el aprendizaje de distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que me desempeño.
 
