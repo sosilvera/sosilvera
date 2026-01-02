@@ -4,12 +4,10 @@
 **sosilvera/sosilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Vengo rompiendo software desde hace 7 años.
-
-En el medio, me adentre en el aprendizaje de distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que me desempeño.
+Soy Tester QA desde hace algunos años, a lo largo de este camino he aprenedido distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que me desempeño.
 
 También me interesé en el desarrollo en Python y el análisis de datos, con el objetivo de mejorar los procesos y problemas que nos encontramos a diario.
-Además, soy estudiante de Ciencias de la Computación.
+Estudio Ciencias de la Computación.
 
 ## Tecnologías:
 [![Cypress](https://img.shields.io/badge/Cypress-4285F4?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)]()
