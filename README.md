@@ -1,5 +1,5 @@
 # Hola, soy Seba Silvera 👋
-### Tester QA (manual y automation) & Python Developer.
+### Tester QA & Python Developer.
 <!--
 **sosilvera/sosilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,6 +7,7 @@
 Soy Tester QA desde hace algunos años, a lo largo de este camino he aprenedido distintas herramientas y metologías para poder hacer mejor mi trabajo y contribuir a la empresa en la que me desempeño.
 
 También me interesé en el desarrollo en Python y el análisis de datos, con el objetivo de mejorar los procesos y problemas que nos encontramos a diario.
+
 Estudio Ciencias de la Computación.
 
 ## Tecnologías:
